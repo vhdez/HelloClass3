@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Hi!  It's Alonso! Who else is here?");
         System.out.println("Hello, Matthew present ^.^");
         System.out.println("Hey! It's Cia ^^");
+        System.out.println("Mr. Hernandez is still here.");
+
     }
 }
