@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Hi!  It's Mr. Hernandez.  Who's here?");
         System.out.println("Hi!  It's Alonso! Who else is here?");
         System.out.println("Hello, Matthew present ^.^");
+        System.out.println("Mr. Hernandez is still here.");
+
     }
 }
