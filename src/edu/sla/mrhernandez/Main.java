@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Hey! It's Cia ^^");
         System.out.println("Mr. Hernandez is still here.");
         System.out.println("..hacking.... I'm in- Aidan");
-
+        System.out.println("Hello, this is Ethan Chen");
+        System.out.println("Hi, it's Tashon.");
     }
 }
